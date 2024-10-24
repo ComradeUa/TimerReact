@@ -23,7 +23,7 @@ To install and run the project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd TimerReact
+   cd app-web
    ```
 
 3. Install the dependencies:
