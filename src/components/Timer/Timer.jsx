@@ -1,7 +1,7 @@
 import React from 'react';
 import Input from './Input/Input';
 import Buttons from './Buttons/Buttons';
-import useTimer from '../../hooks/useTimer';
+import useTimer from '../hooks/useTimer';
 import './Timer.scss';
 const Timer = () => {
   const {
