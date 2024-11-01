@@ -1,5 +1,4 @@
 import React from 'react';
-import './Input.scss';
 export default function Input({ hours, minutes, seconds, setHours, setMinutes, setSeconds }) {
   return (
     <>
